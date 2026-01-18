@@ -1,0 +1,15 @@
+# Hypothetical Longevity Dataset
+# All data is fictional and for illustrative purposes only
+
+ID | Age | Gender | BMI | PhysicalActivity | SmokingStatus | AlcoholConsumption | DietQuality | ChronicConditions | StressLevel | SleepHours | LifeExpectancy
+---|-----|--------|-----|------------------|---------------|--------------------|-------------|-------------------|-------------|------------|----------------
+001 | 25  | F      | 21.8| High             | Non-smoker    | Low                | Excellent   | None              | Low         | 8.0        | 89
+002 | 34  | M      | 26.4| Moderate         | Former        | Moderate           | Good        | Hypertension      | Medium      | 6.5        | 81
+003 | 41  | F      | 23.1| Low              | Non-smoker    | Low                | Good        | None              | High        | 5.5        | 84
+004 | 52  | M      | 29.7| Low              | Smoker        | High               | Poor        | Diabetes          | High        | 5.0        | 72
+005 | 60  | F      | 24.3| Moderate         | Non-smoker    | Low                | Excellent   | Arthritis         | Medium      | 7.0        | 86
+006 | 68  | M      | 27.9| Moderate         | Former        | Moderate           | Fair        | Heart Disease     | Medium      | 6.0        | 78
+007 | 74  | F      | 22.5| High             | Non-smoker    | None               | Excellent   | None              | Low         | 7.5        | 92
+008 | 81  | M      | 25.8| Low              | Former        | Low                | Fair        | COPD              | Medium      | 6.0        | 83
+009 | 90  | F      | 21.2| Moderate         | Non-smoker    | None               | Good        | None              | Low         | 8.0        | 97
+010 | 47  | M      | 24.9| High             | Non-smoker    | Moderate           | Good        | None              | Medium      | 7.0        | 88
